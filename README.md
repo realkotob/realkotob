@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/asheraryam"><img src="https://api.daily.dev/devcards/e1f393ce0c63452286b4060e1099e437.png?r=i6z" align="right" width="400" alt="Kotob's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/asheraryam"><img src="https://api.daily.dev/devcards/e1f393ce0c63452286b4060e1099e437.png?r=i6z" align="right" width="400" alt="Kotob's Dev Card"/></a> -->
 ### Hi there 👋
 
 - 👯 I’m looking to collaborate on wholesome, experimental, and/or ambitious games.
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--![asheraryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=asheraryam&count_private=true)-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asheraryam)](https://github.com/anuraghazra/github-readme-stats)-->
+![asheraryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=asheraryam&count_private=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asheraryam)](https://github.com/anuraghazra/github-readme-stats) -->
 
