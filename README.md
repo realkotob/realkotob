@@ -1,10 +1,10 @@
 <!-- <a href="https://app.daily.dev/realkotob"><img src="https://api.daily.dev/devcards/e1f393ce0c63452286b4060e1099e437.png?r=i6z" align="right" width="400" alt="Kotob's Dev Card"/></a> -->
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on wholesome and experimental games
+- 👯 I’m looking to collaborate on wholesome or experimental games
 - 📫 Message me on the [Radical Goats](https://discord.gg/RH7aZhune5) Discord server (kotob#0001)
 - 💬 Ask me about networked physics
-- ⭐ See my resume on [realkotob.com](http://realkotob.com)
+- ⭐ See my resume at [realkotob.com](http://realkotob.com)
 <!--
 **asheraryam/asheraryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
