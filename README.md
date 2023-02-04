@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 👯 I’m looking to collaborate on wholesome or experimental games
-- 📫 Message me on the [Radical Goats](https://discord.gg/RH7aZhune5) Discord server (kotob#0001)
+- 📫 Message me on [my email address](mailto:kotob@realkotob.com) or [my Mastodon]([url](https://mastodon.gamedev.place/@realkotob))!
 - 💬 Ask me about networked physics
 - ⭐ See my resume at [realkotob.com](http://realkotob.com)
 <!--
