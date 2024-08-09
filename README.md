@@ -2,9 +2,9 @@
 ### Hi there 👋
 
 - 👯 I’m looking to collaborate on wholesome or experimental games
-- 📫 Message me on my [email address](mailto:kotob@realkotob.com) or find me [on Mastodon](https://mastodon.gamedev.place/@realkotob)!
+- 📫 Message me on my [email address](mailto:realkotob@gmail.com) or find me [on Mastodon](https://mastodon.gamedev.place/@realkotob)!
 - 💬 Ask me about networked physics
-- ⭐ See my resume at [realkotob.com](http://realkotob.com)
+- ⭐ See my resume on [linkedin](https://www.linkedin.com/in/kotob/)
 <!--
 **asheraryam/asheraryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
