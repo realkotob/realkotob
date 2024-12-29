@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 👯 I’m looking to collaborate on wholesome or experimental games
-- 📫 Message me on my [email address](mailto:realkotob@gmail.com) or find me [on Mastodon](https://mastodon.gamedev.place/@realkotob)!
+- 📫 Message me on my [email address](mailto:realkotob@gmail.com) or find me [on Blusky](https://bsky.app/profile/realkotob.bsky.social)!
 - 💬 Ask me about networked physics
 - ⭐ See my resume on [linkedin](https://www.linkedin.com/in/kotob/)
 <!--
